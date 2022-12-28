@@ -1,9 +1,9 @@
 {
   "color": {
     "primarycolor": {
-      "description": "This is the promary color",
+      "description": "This is the primary color",
       "type": "color",
-      "value": "#e11e59ff",
+      "value": "#3525edff",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
